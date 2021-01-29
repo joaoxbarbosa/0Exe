@@ -11,4 +11,3 @@
 ---
 
 ![yes](https://github-readme-stats.vercel.app/api?username=0Exe&show_icons=true&theme=highcontrast)
-i totally didnt copy this from million lol
