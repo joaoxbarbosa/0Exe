@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**0Exe/0Exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [stuff](https://github.com/0Exe/)
+- 🌱 I’m currently learning ~~js~~ ts.
+- 📫 How to reach me: 0Exe#0840
+- 🎄 [My 2nd website](https://is-a.computer)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub metrics](https://metrics.lecoq.io/0Exe?languages=1&gists=1&followup=1)
+---
+
+![yes](https://github-readme-stats.vercel.app/api?username=0Exe&show_icons=true&theme=highcontrast)
+i totally didnt copy this from million lol
