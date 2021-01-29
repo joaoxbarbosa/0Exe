@@ -2,10 +2,10 @@
 
 ---
 
-- 🔭 I’m currently working on [stuff](https://github.com/0Exe/)
-- 🌱 I’m currently learning ~~js~~ ts.
-- 📫 How to reach me: 0Exe#0840
-- 🎄 [My 2nd website](https://is-a.computer)
+- Working on JS
+- Working on a [Discord Bot](https://top.gg/bot/742831363358589028)
+- Trying to learn node
+- procrastinating on everything
 
 ![GitHub metrics](https://metrics.lecoq.io/0Exe?languages=1&gists=1&followup=1)
 ---
